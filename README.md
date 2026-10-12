@@ -64,6 +64,10 @@ I am a B.Tech AI & Data Science student working at the intersection of **Artific
 - 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel itinerary planner for India with live route scanning — Flask, Groq/Llama-3 70B, Geoapify, Google OAuth.
 - 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Interactive browser-based suite for LSB image steganography, RSA keypair generation, digital watermarking, and Web Crypto API.
 - 🔬 [**Copper-Tensile-Deformation-Informatics**](https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics): Molecular dynamics pipeline (LAMMPS + OVITO) simulating FCC copper tensile failure across 300K–900K with DXA dislocation tracking.
+- ⚛️ [**Lammps-AI**](https://github.com/saihardhikreddy/Lammps-AI): Deep learning & machine learning interatomic potentials (MLIP) integration with classical LAMMPS molecular dynamics.
+- 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Autonomous visual target acquisition and defensive response simulation framework.
+- 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): macOS FaceTime-style hand gesture reactions for Windows video calls with MediaPipe and PyVirtualCam.
+- 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills, and web craft patterns.
 
 </details>
 
