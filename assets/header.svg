@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070f"/>
+      <stop offset="0.6" stop-color="#0b1226"/>
+      <stop offset="1" stop-color="#1a0f2e"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb86b"/>
+      <stop offset="0.5" stop-color="#ff7a59"/>
+      <stop offset="1" stop-color="#7cc7ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#ff7a59" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#ff7a59" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="40" r="1.2" opacity=".7"><animate attributeName="opacity" values=".2;.9;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="210" cy="250" r="1" opacity=".5"><animate attributeName="opacity" values=".1;.8;.1" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="30" r="1.4" opacity=".6"><animate attributeName="opacity" values=".3;1;.3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="270" r="1" opacity=".5"/>
+    <circle cx="760" cy="55" r="1.1" opacity=".6"><animate attributeName="opacity" values=".2;.9;.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="250" r="1.3" opacity=".6"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="40" r="1" opacity=".5"/>
+    <circle cx="540" cy="140" r=".9" opacity=".4"/>
+  </g>
+
+  <!-- orion-like constellation -->
+  <g stroke="#7cc7ff" stroke-opacity=".35" stroke-width="1" fill="none">
+    <polyline points="905,70 960,105 1010,92 1062,128 1040,190 975,205 930,165 960,105"/>
+    <line x1="1010" y1="92" x2="1040" y2="190"/>
+  </g>
+  <g fill="#cfe8ff">
+    <circle cx="905" cy="70" r="3"/><circle cx="960" cy="105" r="2.5"/><circle cx="1010" cy="92" r="3.2"/>
+    <circle cx="1062" cy="128" r="2.4"/><circle cx="1040" cy="190" r="3"/><circle cx="975" cy="205" r="2.6"/>
+    <circle cx="930" cy="165" r="2.2"/>
+  </g>
+
+  <text x="70" y="112" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="22" fill="#8b95a7" letter-spacing="6">SAI HARDHIK REDDY</text>
+  <text x="68" y="178" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="url(#ink)">Shipping ideas into reality.</text>
+  <text x="70" y="228" font-family="Consolas, Menlo, monospace" font-size="19" fill="#c9d1d9">AI &amp; Data Science · SDR · Scientific ML · Autonomous agents</text>
+</svg>
