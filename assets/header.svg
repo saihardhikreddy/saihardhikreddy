@@ -1,60 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05070d"/>
-      <stop offset="1" stop-color="#0a0f1a"/>
-    </linearGradient>
-    <linearGradient id="sub" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity=".35"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".05"/>
-    </pattern>
+    <radialGradient id="ember" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fc6b2f" stop-opacity="0.38"/>
+      <stop offset="0.45" stop-color="#dc2626" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.45" r="0.75">
+      <stop offset="0.35" stop-color="#111111" stop-opacity="0"/>
+      <stop offset="1" stop-color="#050505" stop-opacity="1"/>
+    </radialGradient>
   </defs>
 
-  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
-  <rect x=".5" y=".5" width="1199" height="319" rx="18" fill="none" stroke="#1e293b"/>
+  <rect width="1200" height="340" rx="18" fill="#111111"/>
+  <ellipse cx="600" cy="170" rx="360" ry="200" fill="url(#ember)">
+    <animate attributeName="opacity" values=".75;1;.75" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <rect width="1200" height="340" rx="18" fill="url(#vignette)"/>
 
-  <!-- radar -->
-  <g transform="translate(965 150)">
-    <circle r="125" fill="none" stroke="#22d3ee" stroke-opacity=".12"/>
-    <circle r="85" fill="none" stroke="#22d3ee" stroke-opacity=".14"/>
-    <circle r="45" fill="none" stroke="#22d3ee" stroke-opacity=".18"/>
-    <line x1="-140" y1="0" x2="140" y2="0" stroke="#22d3ee" stroke-opacity=".12" stroke-dasharray="4 6"/>
-    <line x1="0" y1="-140" x2="0" y2="140" stroke="#22d3ee" stroke-opacity=".12" stroke-dasharray="4 6"/>
-    <path d="M0 0 L125 0 A125 125 0 0 0 108 -62 Z" fill="url(#sweep)">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
-    </path>
-    <g fill="#22d3ee">
-      <circle cx="-62" cy="-18" r="3"/><circle cx="-70" cy="-30" r="1.6" opacity=".7"/><circle cx="-50" cy="-34" r="1.6" opacity=".7"/>
-      <circle cx="-78" cy="-8" r="1.4" opacity=".6"/><circle cx="-56" cy="2" r="1.6" opacity=".7"/>
-      <circle cx="58" cy="-14" r="3"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
-      <circle cx="70" cy="-30" r="1.6" opacity=".7"/><circle cx="46" cy="-2" r="1.6" opacity=".7"/><circle cx="76" cy="0" r="1.4" opacity=".6"/>
-    </g>
-    <text x="-56" y="-24" font-family="Consolas, monospace" font-size="11" fill="#94a3b8">S1</text>
-    <text x="64" y="-20" font-family="Consolas, monospace" font-size="11" fill="#94a3b8">S8</text>
+  <!-- dust -->
+  <g fill="#fc6b2f">
+    <circle cx="140" cy="60" r="1.6" opacity=".6"><animate attributeName="cy" values="60;48;60" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="90" r="1.4" opacity=".5"><animate attributeName="cy" values="90;78;90" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="270" r="1.8" opacity=".5"><animate attributeName="cy" values="270;258;270" dur="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#ffffff" opacity=".25">
+    <circle cx="300" cy="280" r="1.2"/><circle cx="860" cy="40" r="1"/><circle cx="1120" cy="200" r="1.3"/><circle cx="70" cy="210" r="1"/>
   </g>
 
-  <!-- signal wave -->
-  <path d="M0 290 C 60 260, 100 260, 150 290 S 240 320, 300 290 S 390 255, 450 290 S 540 320, 600 290 S 690 258, 750 290 S 840 322, 900 290 S 990 258, 1050 290 S 1140 320, 1200 290"
-        fill="none" stroke="#22d3ee" stroke-width="2" stroke-opacity=".55"/>
-  <path d="M0 296 C 80 280, 160 310, 240 296 S 400 280, 480 296 S 640 312, 720 296 S 880 280, 960 296 S 1120 310, 1200 296"
-        fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-opacity=".35"/>
+  <!-- tag line -->
+  <circle cx="74" cy="44" r="4" fill="#dc2626"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="88" y="49" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#b5b5b5">SHIPPING IDEAS INTO REALITY.</text>
+  <text x="1130" y="49" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f2f2f2">S<tspan fill="#dc2626">H</tspan><tspan fill="#dc2626">.</tspan></text>
 
-  <!-- tag -->
-  <g transform="translate(70 52)">
-    <rect width="228" height="30" rx="15" fill="#0b1220" stroke="#164e63"/>
-    <circle cx="18" cy="15" r="4" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
-    <text x="32" y="20" font-family="Consolas, monospace" font-size="13" fill="#22d3ee" letter-spacing="1">HARDHIK.DEV · AI &amp; SDR</text>
+  <!-- HARDHIK, thin outer letters and heavy centre letters like the portfolio hero -->
+  <g font-family="'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" fill="#ebe7e4" text-anchor="middle">
+    <text x="318" y="232" font-size="150" font-weight="400" fill="none" stroke="#ebe7e4" stroke-width="1.6" opacity=".9">H</text>
+    <text x="410" y="232" font-size="150" font-weight="400" fill="none" stroke="#ebe7e4" stroke-width="2" opacity=".92">A</text>
+    <text x="520" y="232" font-size="160" font-weight="900">R</text>
+    <text x="650" y="232" font-size="170" font-weight="900">D</text>
+    <text x="772" y="232" font-size="150" font-weight="400" fill="none" stroke="#ebe7e4" stroke-width="2.4">H</text>
+    <text x="852" y="232" font-size="150" font-weight="400" fill="none" stroke="#ebe7e4" stroke-width="1.6" opacity=".9">I</text>
+    <text x="912" y="232" font-size="150" font-weight="400" fill="none" stroke="#ebe7e4" stroke-width="1.6" opacity=".85">K</text>
   </g>
+  <text x="600" y="180" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5" fill="#dc2626">SYSTEMS · SDR · SCIENTIFIC ML · AGENTS</text>
 
-  <text x="68" y="146" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#f8fafc">Sai Hardhik Reddy</text>
-  <text x="70" y="196" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" fill="url(#sub)">Cyber-Physical ML &amp; Software-Defined Radio</text>
-  <text x="70" y="238" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#94a3b8">Spread-spectrum RF · SIREN PINNs · Autonomous multi-agent systems</text>
+  <text x="600" y="300" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#b5b5b5">Sai Hardhik Reddy — systems and ML engineer building radios, PINNs and autonomous agents from first principles</text>
 </svg>
