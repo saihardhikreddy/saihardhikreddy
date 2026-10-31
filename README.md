@@ -1,119 +1,101 @@
-<div align="center">
-
-<img src="assets/header.svg" alt="HARDHIK: shipping ideas into reality" width="100%">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2600&pause=900&color=DC2626&center=true&vCenter=true&width=680&lines=Spread-spectrum+SDR+%C2%B7+Costas+loops+%C2%B7+DSSS;SIREN+PINNs+for+Euler-Bernoulli+beams;Autonomous+MCP+agents+for+Terraform+governance;Tools+that+developers+actually+use" alt="What I build"></a>
-
-<p><a href="https://www.linkedin.com/in/saihardhikreddy/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FC6B2F" alt="LinkedIn"></a> <a href="mailto:saihardhikreddy@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FC6B2F" alt="Email"></a> <a href="https://sentinelspread.vercel.app"><img src="https://img.shields.io/badge/SentinelSpread-live-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="SentinelSpread live demo"></a> <a href="https://saihardhikreddy.github.io/issue-scout/"><img src="https://img.shields.io/badge/Issue%20Scout-live-DC2626?style=for-the-badge&logo=githubpages&logoColor=white" alt="Issue Scout live demo"></a></p>
-
-<img src="assets/portfolio-scroll.webp" alt="Scrolling through my portfolio" width="100%">
-
-<sub>A scroll through my portfolio: the hero, the philosophy, selected projects, skills and experience.</sub>
-
-</div>
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### ● About
-
-I'm a B.Tech **AI & Data Science** student in Hyderabad, India.
-I build systems from first principles, then make them visible:
-spread-spectrum radios, physics-informed neural networks,
-autonomous agents and real-time computer vision.
-
-> *Great software is born at the intersection of engineering precision and design intuition.*
-
-</td>
-    <td width="50%" valign="top">
-
-### ● At a glance
-
-| | |
-| --- | --- |
-| 📡 **Focus** | SDR · Scientific ML · Agents · Vision |
-| 🧪 **Shipped** | 13 public repositories |
-| 🌐 **Live demos** | [SentinelSpread](https://sentinelspread.vercel.app) · [Issue Scout](https://saihardhikreddy.github.io/issue-scout/) |
-| 📍 **Based in** | Hyderabad, India |
-| 🟢 **Status** | Open to opportunities |
-
-</td>
-  </tr>
-</table>
-
-## ● Selected projects
-
-<a href="https://github.com/saihardhikreddy/SentinelSpread"><img src="assets/card-01-sentinelspread.jpg" alt="SentinelSpread SDR" width="100%"></a>
-<p align="center"><a href="https://github.com/saihardhikreddy/SentinelSpread"><b>Code</b></a> · <a href="https://sentinelspread.vercel.app"><b>Live site ↗</b></a></p>
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/cloudops-os-mcp"><img src="assets/card-02-cloudops.jpg" alt="CloudOps OS MCP"></a></td>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/omni-track"><img src="assets/card-03-omnitrack.jpg" alt="Omni-Track SVD"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/FD-PINN-Beam-Inverse"><img src="assets/card-04-fdpinn.jpg" alt="FD-PINN Beam Mechanics"></a></td>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/issue-scout"><img src="assets/card-10-issue-scout.jpg" alt="Issue Scout"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/gesture-reactions"><img src="assets/card-09-gesture.jpg" alt="Gesture Reactions"></a></td>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics"><img src="assets/card-05-copper.jpg" alt="Copper MD Tensile Dynamics"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge"><img src="assets/card-06-skyforge.jpg" alt="Sky Forge Air Defence"></a></td>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/Lammps-AI"><img src="assets/card-07-lammps.jpg" alt="LAMMPS-AI Potentials"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/saihardhikreddy/steganography-and-watermarking"><img src="assets/card-08-stego.jpg" alt="Steganography Suite"></a></td>
-    <td width="50%" valign="middle">
-
-**Also building**
-
-- [🚦 Predictive Edge AI Routing](https://github.com/saihardhikreddy/predictive-edge-ai-routing): self-defending routing for offline Bluetooth meshes (team project)
-- [🧳 WanderIndia](https://github.com/saihardhikreddy/WanderIndia): AI road-trip planner for India
-
-<sub>Every card links to its repository.</sub>
-
-</td>
-  </tr>
-</table>
-
-## ● Technical arsenal
-
-<table>
-  <tr>
-    <td width="50%"><img src="assets/skills.jpg" alt="Interactive 3D skills sphere"></td>
-    <td width="50%"><img src="assets/experience.jpg" alt="Experience constellation"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>The 3D skills sphere on my portfolio</sub></td>
-    <td align="center"><sub>Where I've been, drawn as a constellation</sub></td>
-  </tr>
-</table>
-
-| Domain | Toolchain |
-| --- | --- |
-| **Languages** | Python · C++ · TypeScript · JavaScript · SQL · MATLAB · Bash |
-| **AI / ML** | PyTorch · SIREN PINNs · DeepMD-kit · YOLOv8 · SAHI · Scikit-Learn |
-| **Robotics & CV** | OpenCV · MediaPipe · ByteTrack · Arduino · Costas loop sync |
-| **Cloud & simulation** | MCP · Terraform · OPA/Rego · Docker · GitHub Actions · LAMMPS · OVITO |
+# Hi there, I'm Sai Hardhik Reddy 👋
+### AI & Data Science Engineer | SDR & Cyber-Physical Systems | Scientific ML (PINNs)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,matlab,pytorch,opencv,docker,githubactions,arduino,linux&theme=dark&perline=11" alt="Tech stack">
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Data_Science-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Specialization-Software_Defined_Radio-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Physics_Informed_ML-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" />
 </p>
 
-## ● Telemetry
+---
+
+## ⚡ About Me
+
+I am a B.Tech AI & Data Science student working at the intersection of **Artificial Intelligence**, **Software Defined Radio (SDR)**, **Physics-Informed Neural Networks (PINNs)**, and **Autonomous Agent Architectures**.
+
+- 📡 **Software-Defined Systems**: Building Direct Sequence Spread Spectrum (DSSS) covert communications, Costas loop carrier phase recovery, and steganographic RF pipelines.
+- 🧠 **Scientific ML & Mathematical Modeling**: Applying SIREN physics-informed neural networks (PINNs) to Euler-Bernoulli structural mechanics & inverse dynamic stiffness discovery.
+- 👁️ **Computer Vision & Topology**: Fusing SVD Rank-1 matrix decomposition with YOLOv8/ByteTrack and SAHI hyper-inference for real-time dense crowd topography.
+- ☁️ **CloudOps & AI Governance**: Architecting autonomous LLM multi-agent pipelines with OPA/Rego policy-as-code and Model Context Protocol (MCP).
+
+---
+
+## 🚀 Featured Portfolio Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📡 SentinelSpread</h3>
+      <p align="center"><b>Spread-Spectrum Covert SDR & Detector Suite</b></p>
+      <p>Working DSSS covert wireless communications pipeline with BPSK/QPSK Gray mapping, RRC pulse shaping, 2nd-order Costas loop carrier recovery, exact E_b/N_0 AWGN channel simulation, LSB image steganography, and theoretical BER benchmarking.</p>
+      <p><b>Tech Stack:</b> Python, GNU Radio, PyCryptodome, SciPy, Matplotlib, Pytest</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/SentinelSpread">👉 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ CloudOps OS MCP</h3>
+      <p align="center"><b>Autonomous Multi-Agent Terraform Pipeline</b></p>
+      <p>Multi-agent Model Context Protocol (MCP) server for automated Infrastructure-as-Code (IaC) governance, cost optimization, and OPA/Rego policy compliance with OpenRouter/Llama-3 reasoning.</p>
+      <p><b>Tech Stack:</b> TypeScript, Node.js, MCP, Terraform, OPA/Rego, Docker</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/cloudops-os-mcp">👉 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">👁️ Omni-Track Command Center</h3>
+      <p align="center"><b>Real-Time Crowd Topography & SVD Anomaly Detection</b></p>
+      <p>Computer Vision & Linear Algebra pipeline combining SVD Rank-1 matrix decomposition, YOLOv8/ByteTrack, SAHI sliced hyper-inference, and K_n fully connected graph analysis for dense crowds.</p>
+      <p><b>Tech Stack:</b> Python, OpenCV, YOLOv8, SAHI, NumPy, SciPy</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/omni-track">👉 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 FD-PINN Beam Inverse</h3>
+      <p align="center"><b>Frequency-Domain Physics-Informed Neural Network</b></p>
+      <p>Custom PINN for inverse parameter discovery in Euler-Bernoulli beam vibrations using SIREN (sinusoidal) activations, high-penalty boundary weighting (10^7), and L-BFGS physics loss optimization.</p>
+      <p><b>Tech Stack:</b> PyTorch, Physics-Informed ML, NumPy, Matplotlib</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/FD-PINN-Beam-Inverse">👉 View Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔍 View Additional Open-Source Repositories</b></summary>
+
+- 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel itinerary planner for India with live route scanning — Flask, Groq/Llama-3 70B, Geoapify, Google OAuth.
+- 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Interactive browser-based suite for LSB image steganography, RSA keypair generation, digital watermarking, and Web Crypto API.
+- 🔬 [**Copper-Tensile-Deformation-Informatics**](https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics): Molecular dynamics pipeline (LAMMPS + OVITO) simulating FCC copper tensile failure across 300K–900K with DXA dislocation tracking.
+- ⚛️ [**Lammps-AI**](https://github.com/saihardhikreddy/Lammps-AI): Deep learning & machine learning interatomic potentials (MLIP) integration with classical LAMMPS molecular dynamics.
+- 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Autonomous visual target acquisition and defensive response simulation framework.
+- 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): macOS FaceTime-style hand gesture reactions for Windows video calls with MediaPipe and PyVirtualCam.
+- 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills, and web craft patterns.
+
+</details>
+
+---
+
+## 🛠️ Languages & Technical Skills
+
+```
+Languages       : Python, C++, TypeScript, JavaScript, SQL, MATLAB, Bash
+Machine Learning: PyTorch, TensorFlow, Scikit-Learn, PINNs (SIREN), OpenCV, YOLOv8, SAHI
+SDR & Telecom   : Direct Sequence Spread Spectrum (DSSS), BPSK/QPSK, Costas Loop, RRC Filtering, GNU Radio
+Cloud & DevOps  : Terraform, Docker, GitHub Actions, Open Policy Agent (OPA), Node.js, Fastify/NestJS
+Simulations     : LAMMPS Molecular Dynamics, OVITO DXA Analysis, SciPy Signal/Linear Algebra
+```
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saihardhikreddy&show_icons=true&bg_color=111111&title_color=fc6b2f&icon_color=dc2626&text_color=d4d4d4&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saihardhikreddy&layout=compact&bg_color=111111&title_color=fc6b2f&text_color=d4d4d4&hide_border=true" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saihardhikreddy&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saihardhikreddy&layout=compact&theme=tokyonight" />
 </p>
 
-## ● Let's create something extraordinary
+---
 
-Have a project in mind or want to collaborate? Reach me by [email](mailto:saihardhikreddy@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/saihardhikreddy/).
+## 📫 Connect With Me
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=saihardhikreddy&color=dc2626&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"></p>
+- 💼 **LinkedIn**: [Sai Hardhik Reddy](https://linkedin.com)
+- 🌐 **GitHub**: [@saihardhikreddy](https://github.com/saihardhikreddy)
+- ✉️ **Email**: saihardhikreddy@gmail.com
