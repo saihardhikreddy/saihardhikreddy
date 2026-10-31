@@ -1,10 +1,11 @@
 # Hi there, I'm Sai Hardhik Reddy 👋
-### AI & Data Science Engineer | SDR & Cyber-Physical Systems | Scientific ML (PINNs)
+### AI & Data Science Engineer | SDR & Cyber-Physical Systems | Scientific ML (PINNs) | Robotics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI_%26_Data_Science-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Specialization-Software_Defined_Radio-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Research-Physics_Informed_ML-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-ROS_2-22314E?style=for-the-badge&logo=ros" />
   <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" />
 </p>
 
@@ -12,62 +13,82 @@
 
 ## ⚡ About Me
 
-I am a B.Tech AI & Data Science student working at the intersection of **Artificial Intelligence**, **Software Defined Radio (SDR)**, **Physics-Informed Neural Networks (PINNs)**, and **Autonomous Agent Architectures**.
+B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like building complete systems from the maths up: signal chains, physics-informed models, robots and the software that runs them. I care about results I can measure and explain.
 
-- 📡 **Software-Defined Systems**: Building Direct Sequence Spread Spectrum (DSSS) covert communications, Costas loop carrier phase recovery, and steganographic RF pipelines.
-- 🧠 **Scientific ML & Mathematical Modeling**: Applying SIREN physics-informed neural networks (PINNs) to Euler-Bernoulli structural mechanics & inverse dynamic stiffness discovery.
-- 👁️ **Computer Vision & Topology**: Fusing SVD Rank-1 matrix decomposition with YOLOv8/ByteTrack and SAHI hyper-inference for real-time dense crowd topography.
-- ☁️ **CloudOps & AI Governance**: Architecting autonomous LLM multi-agent pipelines with OPA/Rego policy-as-code and Model Context Protocol (MCP).
+- 📡 **Software-Defined Radio**: DSSS covert links, Costas-loop carrier recovery, RF steganography and detectors.
+- 🧠 **Scientific ML**: physics-informed neural networks (SIREN PINNs) for inverse problems in structural dynamics.
+- 🤖 **Robotics**: ROS 2 perception, inverse kinematics and path planning written from scratch.
+- 🛰️ **Networks & Edge AI**: learning-based routing for offline Bluetooth mesh networks.
+- ☁️ **AI Infrastructure**: multi-agent MCP servers with policy-as-code (OPA/Rego) guardrails.
 
 ---
 
-## 🚀 Featured Portfolio Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📡 SentinelSpread</h3>
       <p align="center"><b>Spread-Spectrum Covert SDR & Detector Suite</b></p>
-      <p>Working DSSS covert wireless communications pipeline with BPSK/QPSK Gray mapping, RRC pulse shaping, 2nd-order Costas loop carrier recovery, exact E_b/N_0 AWGN channel simulation, LSB image steganography, and theoretical BER benchmarking.</p>
-      <p><b>Tech Stack:</b> Python, GNU Radio, PyCryptodome, SciPy, Matplotlib, Pytest</p>
+      <p>End-to-end DSSS covert link: BPSK/QPSK Gray mapping, RRC pulse shaping, 2nd-order Costas loop, exact E<sub>b</sub>/N<sub>0</sub> AWGN channel, LSB steganography and BER benchmarking against theory.</p>
+      <p><b>Stack:</b> Python, GNU Radio, SciPy, PyCryptodome, Pytest</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/SentinelSpread">👉 View Repository</a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">☁️ CloudOps OS MCP</h3>
-      <p align="center"><b>Autonomous Multi-Agent Terraform Pipeline</b></p>
-      <p>Multi-agent Model Context Protocol (MCP) server for automated Infrastructure-as-Code (IaC) governance, cost optimization, and OPA/Rego policy compliance with OpenRouter/Llama-3 reasoning.</p>
-      <p><b>Tech Stack:</b> TypeScript, Node.js, MCP, Terraform, OPA/Rego, Docker</p>
-      <p align="center"><a href="https://github.com/saihardhikreddy/cloudops-os-mcp">👉 View Repository</a></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Strata Cobot</h3>
+      <p align="center"><b>Autonomous Ore Sorting & Haulage in ROS 2</b></p>
+      <p>A UR7e arm and a mobile robot sort and haul ore with no human in the loop. RGB-D perception, inverse kinematics, motion planning and path planning are all written from scratch, with no MoveIt 2 or Nav2.</p>
+      <p><b>Stack:</b> ROS 2, Python, Gazebo, OpenCV</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/strata-cobot">👉 View Repository</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">👁️ Omni-Track Command Center</h3>
-      <p align="center"><b>Real-Time Crowd Topography & SVD Anomaly Detection</b></p>
-      <p>Computer Vision & Linear Algebra pipeline combining SVD Rank-1 matrix decomposition, YOLOv8/ByteTrack, SAHI sliced hyper-inference, and K_n fully connected graph analysis for dense crowds.</p>
-      <p><b>Tech Stack:</b> Python, OpenCV, YOLOv8, SAHI, NumPy, SciPy</p>
-      <p align="center"><a href="https://github.com/saihardhikreddy/omni-track">👉 View Repository</a></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ Predictive Edge AI Routing</h3>
+      <p align="center"><b>Learning Routing for Offline BLE Mesh Networks</b></p>
+      <p>A learning, privacy-preserving and self-defending routing layer for BitChat-style Bluetooth meshes. Includes a mesh simulator, DTN baselines, a digital-twin server and an Android app.</p>
+      <p><b>Stack:</b> Python, Kotlin, BLE, Simulation</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/predictive-edge-ai-routing">👉 View Repository</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🧠 FD-PINN Beam Inverse</h3>
       <p align="center"><b>Frequency-Domain Physics-Informed Neural Network</b></p>
-      <p>Custom PINN for inverse parameter discovery in Euler-Bernoulli beam vibrations using SIREN (sinusoidal) activations, high-penalty boundary weighting (10^7), and L-BFGS physics loss optimization.</p>
-      <p><b>Tech Stack:</b> PyTorch, Physics-Informed ML, NumPy, Matplotlib</p>
+      <p>Inverse parameter discovery for Euler-Bernoulli beam vibrations using SIREN activations, heavily weighted boundary penalties and L-BFGS optimisation of the physics loss.</p>
+      <p><b>Stack:</b> PyTorch, NumPy, Matplotlib</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/FD-PINN-Beam-Inverse">👉 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ CloudOps OS MCP</h3>
+      <p align="center"><b>Autonomous Multi-Agent Terraform Pipeline</b></p>
+      <p>Model Context Protocol server for Infrastructure-as-Code governance: cost optimisation and OPA/Rego policy compliance with LLM reasoning, packaged with Docker and CI.</p>
+      <p><b>Stack:</b> TypeScript, Node.js, MCP, Terraform, OPA/Rego, Docker</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/cloudops-os-mcp">👉 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ SeismoPulse</h3>
+      <p align="center"><b>₹410 Cuffless Blood-Pressure Trend Monitor</b></p>
+      <p>Times each heartbeat from the aortic-valve opening (MPU-6050 seismocardiogram) to the fingertip pulse (PPG) on an Arduino Nano, and converts the transit time into a BP trend with physics-based calibration.</p>
+      <p><b>Stack:</b> Arduino C++, Python, Signal Processing</p>
+      <p align="center"><a href="https://github.com/saihardhikreddy/SeismoPulse">👉 View Repository</a></p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>🔍 View Additional Open-Source Repositories</b></summary>
+<summary><b>🔍 More Projects</b></summary>
 
-- 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel itinerary planner for India with live route scanning — Flask, Groq/Llama-3 70B, Geoapify, Google OAuth.
-- 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Interactive browser-based suite for LSB image steganography, RSA keypair generation, digital watermarking, and Web Crypto API.
-- 🔬 [**Copper-Tensile-Deformation-Informatics**](https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics): Molecular dynamics pipeline (LAMMPS + OVITO) simulating FCC copper tensile failure across 300K–900K with DXA dislocation tracking.
-- ⚛️ [**Lammps-AI**](https://github.com/saihardhikreddy/Lammps-AI): Deep learning & machine learning interatomic potentials (MLIP) integration with classical LAMMPS molecular dynamics.
-- 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Autonomous visual target acquisition and defensive response simulation framework.
-- 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): macOS FaceTime-style hand gesture reactions for Windows video calls with MediaPipe and PyVirtualCam.
-- 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills, and web craft patterns.
+- 🧬 [**UniGenome**](https://github.com/saihardhikreddy/unigenome): Anti-counterfeit supply-chain tracking. Signed QR identities, signed scans at every hop and portals for manufacturer, warehouse, retailer, buyer and regulator. TypeScript, Vite.
+- 🔭 [**Issue Scout**](https://github.com/saihardhikreddy/issue-scout): Finds fresh, unclaimed GitHub issues in projects whose AI-contribution policy fits you. Python CLI. [Live demo](https://saihardhikreddy.github.io/issue-scout/).
+- 👁️ [**Omni-Track**](https://github.com/saihardhikreddy/omni-track): Real-time crowd topography with SVD Rank-1 anomaly detection, YOLOv8/ByteTrack and SAHI sliced inference.
+- ⚛️ [**Lammps-AI**](https://github.com/saihardhikreddy/Lammps-AI): LAMMPS molecular dynamics with machine-learning interatomic potentials and automated trajectory analysis.
+- 🔬 [**Copper-Tensile-Deformation-Informatics**](https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics): LAMMPS + OVITO simulation of FCC copper tensile failure from 300 K to 900 K, with DXA dislocation tracking.
+- 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Autonomous visual target acquisition and defensive response simulation.
+- 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Browser suite for LSB steganography, RSA keypairs, digital watermarking and the Web Crypto API.
+- 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel planner for India with live route scanning. Flask, Llama-3 70B (Groq), Geoapify, Google OAuth.
+- 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): FaceTime-style hand-gesture reactions for Windows video calls. MediaPipe, PyVirtualCam.
+- 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills and web craft patterns.
 
 </details>
 
@@ -76,11 +97,12 @@ I am a B.Tech AI & Data Science student working at the intersection of **Artific
 ## 🛠️ Languages & Technical Skills
 
 ```
-Languages       : Python, C++, TypeScript, JavaScript, SQL, MATLAB, Bash
-Machine Learning: PyTorch, TensorFlow, Scikit-Learn, PINNs (SIREN), OpenCV, YOLOv8, SAHI
-SDR & Telecom   : Direct Sequence Spread Spectrum (DSSS), BPSK/QPSK, Costas Loop, RRC Filtering, GNU Radio
-Cloud & DevOps  : Terraform, Docker, GitHub Actions, Open Policy Agent (OPA), Node.js, Fastify/NestJS
-Simulations     : LAMMPS Molecular Dynamics, OVITO DXA Analysis, SciPy Signal/Linear Algebra
+Languages        : Python, C++, TypeScript, JavaScript, Kotlin, SQL, MATLAB, Bash
+Machine Learning : PyTorch, TensorFlow, Scikit-Learn, PINNs (SIREN), OpenCV, YOLOv8, SAHI
+SDR & Telecom    : DSSS, BPSK/QPSK, Costas Loop, RRC Filtering, GNU Radio
+Robotics & Embedded : ROS 2, Gazebo, Inverse Kinematics, Path Planning, Arduino, IMU/PPG sensing
+Cloud & DevOps   : Terraform, Docker, GitHub Actions, Open Policy Agent (OPA), Node.js
+Simulation       : LAMMPS, OVITO (DXA), SciPy Signal / Linear Algebra
 ```
 
 ---
@@ -96,6 +118,5 @@ Simulations     : LAMMPS Molecular Dynamics, OVITO DXA Analysis, SciPy Signal/Li
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn**: [Sai Hardhik Reddy](https://linkedin.com)
-- 🌐 **GitHub**: [@saihardhikreddy](https://github.com/saihardhikreddy)
 - ✉️ **Email**: saihardhikreddy@gmail.com
+- 🌐 **GitHub**: [@saihardhikreddy](https://github.com/saihardhikreddy)
