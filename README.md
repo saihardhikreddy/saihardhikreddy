@@ -54,7 +54,7 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
       <h3 align="center">🧠 FD-PINN Beam Inverse</h3>
       <p align="center"><b>Frequency-Domain Physics-Informed Neural Network</b></p>
       <p>Inverse parameter discovery for Euler-Bernoulli beam vibrations using SIREN activations, heavily weighted boundary penalties and L-BFGS optimisation of the physics loss.</p>
-      <p><b>Stack:</b> PyTorch, NumPy, Matplotlib</p>
+      <p><b>Stack:</b> DeepXDE, TensorFlow, NumPy, Matplotlib</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/FD-PINN-Beam-Inverse">👉 View Repository</a></p>
     </td>
   </tr>
@@ -84,8 +84,9 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
 - 👁️ [**Omni-Track**](https://github.com/saihardhikreddy/omni-track): Real-time crowd topography with SVD Rank-1 anomaly detection, YOLOv8/ByteTrack and SAHI sliced inference.
 - ⚛️ [**Lammps-AI**](https://github.com/saihardhikreddy/Lammps-AI): LAMMPS molecular dynamics with machine-learning interatomic potentials and automated trajectory analysis.
 - 🔬 [**Copper-Tensile-Deformation-Informatics**](https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics): LAMMPS + OVITO simulation of FCC copper tensile failure from 300 K to 900 K, with DXA dislocation tracking.
-- 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Autonomous visual target acquisition and defensive response simulation.
+- 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Arduino air-defence turret prototype: a sweeping ultrasonic radar finds close-range targets, verifies them with multi-sample voting, aims and fires a servo launcher, with a Processing radar display.
 - 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Browser suite for LSB steganography, RSA keypairs, digital watermarking and the Web Crypto API.
+- 🪞 [**Deferral Twin**](https://github.com/saihardhikreddy/deferral-twin): An honest digital twin that answers in your words and says "I don't know" when retrieval confidence is low. Offline on Apple Silicon: FAISS retrieval, Phi-3-mini (MLX).
 - 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel planner for India with live route scanning. Flask, Llama-3 70B (Groq), Geoapify, Google OAuth.
 - 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): FaceTime-style hand-gesture reactions for Windows video calls. MediaPipe, PyVirtualCam.
 - 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills and web craft patterns.
