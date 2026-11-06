@@ -86,8 +86,8 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
 - 🔬 [**Copper-Tensile-Deformation-Informatics**](https://github.com/saihardhikreddy/Copper-Tensile-Deformation-Informatics): LAMMPS + OVITO simulation of FCC copper tensile failure from 300 K to 900 K, with DXA dislocation tracking.
 - 🎯 [**Mini-Air-Defence-System-Sky_Forge**](https://github.com/saihardhikreddy/Mini-Air-Defence-System-Sky_Forge): Arduino air-defence turret prototype: a sweeping ultrasonic radar finds close-range targets, verifies them with multi-sample voting, aims and fires a servo launcher, with a Processing radar display.
 - 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Browser suite for LSB steganography, RSA keypairs, digital watermarking and the Web Crypto API.
-- 🪞 [**Deferral Twin**](https://github.com/saihardhikreddy/deferral-twin): An honest digital twin that answers in your words and says "I don't know" when retrieval confidence is low. Offline on Apple Silicon: FAISS retrieval, Phi-3-mini (MLX).
-- 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel planner for India with live route scanning. Flask, Llama-3 70B (Groq), Geoapify, Google OAuth.
+- 🪞 [**Deferral Twin**](https://github.com/saihardhikreddy/deferral-twin): An honest digital twin that answers in your words, in your cloned voice and with a lip-synced face, and says "I don't know" when retrieval confidence is low. English, Telugu and Hindi, offline on Apple Silicon: FAISS retrieval, Phi-3-mini (MLX), XTTS-v2, Whisper, Wav2Lip.
+- 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel planner for India with live route scanning. Flask, Llama 3.3 70B (Groq), Geoapify, Google OAuth.
 - 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): FaceTime-style hand-gesture reactions for Windows video calls. MediaPipe, PyVirtualCam.
 - 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills and web craft patterns.
 
