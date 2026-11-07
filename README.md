@@ -2,11 +2,11 @@
 ### AI & Data Science Engineer | SDR & Cyber-Physical Systems | Scientific ML (PINNs) | Robotics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Data_Science-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Specialization-Software_Defined_Radio-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Physics_Informed_ML-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Robotics-ROS_2-22314E?style=for-the-badge&logo=ros" />
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" />
+  <img alt="Focus: AI and Data Science" src="https://img.shields.io/badge/Focus-AI_%26_Data_Science-blue?style=for-the-badge&logo=python" />
+  <img alt="Specialization: Software-Defined Radio" src="https://img.shields.io/badge/Specialization-Software_Defined_Radio-green?style=for-the-badge" />
+  <img alt="Research: Physics-Informed ML" src="https://img.shields.io/badge/Research-Physics_Informed_ML-purple?style=for-the-badge" />
+  <img alt="Robotics: ROS 2" src="https://img.shields.io/badge/Robotics-ROS_2-22314E?style=for-the-badge&logo=ros" />
+  <img alt="Location: India" src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -111,8 +111,8 @@ Simulation       : LAMMPS, OVITO (DXA), SciPy Signal / Linear Algebra
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saihardhikreddy&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saihardhikreddy&layout=compact&theme=tokyonight" />
+  <img height="160" alt="GitHub stats for saihardhikreddy" src="https://github-readme-stats.vercel.app/api?username=saihardhikreddy&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saihardhikreddy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
