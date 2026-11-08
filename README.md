@@ -88,8 +88,8 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
 - 🔐 [**steganography-and-watermarking**](https://github.com/saihardhikreddy/steganography-and-watermarking): Browser suite for LSB steganography, RSA keypairs, digital watermarking and the Web Crypto API.
 - 🪞 [**Deferral Twin**](https://github.com/saihardhikreddy/deferral-twin): An honest digital twin that answers in your words, in your cloned voice and with a lip-synced face, and says "I don't know" when retrieval confidence is low. English, Telugu and Hindi, offline on Apple Silicon: FAISS retrieval, Phi-3-mini (MLX), XTTS-v2, Whisper, Wav2Lip.
 - 🧳 [**WanderIndia**](https://github.com/saihardhikreddy/WanderIndia): AI travel planner for India with live route scanning. Flask, Llama 3.3 70B (Groq), Geoapify, Google OAuth.
-- 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): FaceTime-style hand-gesture reactions for Windows video calls. MediaPipe, PyVirtualCam.
-- 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): Portable agent design systems, UI skills and web craft patterns.
+- 🖐️ [**gesture-reactions**](https://github.com/saihardhikreddy/gesture-reactions): macOS-style hand-gesture reactions (hearts, fireworks, confetti...) for any video call on Windows: Zoom, Teams and Meet through a virtual camera, WhatsApp through OBS. MediaPipe, OpenCV, PyVirtualCam.
+- 🎨 [**afterlight**](https://github.com/saihardhikreddy/afterlight): A library of 15 agent skills for UI and WebGL work (design systems, scroll stories, three.js scenes, verification workflows), with runnable offline demos, a skill linter and a desktop/phone screenshot checker.
 
 </details>
 
