@@ -30,8 +30,8 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
     <td width="50%" valign="top">
       <h3 align="center">📡 SentinelSpread</h3>
       <p align="center"><b>Spread-Spectrum Covert SDR & Detector Suite</b></p>
-      <p>End-to-end DSSS covert link: BPSK/QPSK Gray mapping, RRC pulse shaping, 2nd-order Costas loop, exact E<sub>b</sub>/N<sub>0</sub> AWGN channel, LSB steganography and BER benchmarking against theory.</p>
-      <p><b>Stack:</b> Python, GNU Radio, SciPy, PyCryptodome, Pytest</p>
+      <p>End-to-end DSSS covert link: AES-256-GCM sealing, BPSK/QPSK with RRC pulse shaping, Costas-loop carrier recovery and a GNU Radio flowgraph, benchmarked for BER against theory. The other side is a detector suite (statistical tests, a random forest and a CNN on raw I/Q) and a closed loop that adds frequency hopping and power backoff until the CNN's detection confidence falls below a target.</p>
+      <p><b>Stack:</b> Python, GNU Radio, SciPy, PyCryptodome, PyTorch, scikit-learn, Pytest</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/SentinelSpread">👉 View Repository</a></p>
     </td>
     <td width="50%" valign="top">
