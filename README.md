@@ -79,7 +79,7 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
 <details>
 <summary><b>🔍 More Projects</b></summary>
 
-- 🧬 [**UniGenome**](https://github.com/saihardhikreddy/unigenome): Anti-counterfeit supply-chain tracking. Signed QR identities, signed scans at every hop and portals for manufacturer, warehouse, retailer, buyer and regulator. TypeScript, Vite.
+- 🧬 [**UniGenome**](https://github.com/saihardhikreddy/unigenome): Anti-counterfeit supply-chain tracking. Ed25519-signed QR identities, signed and hash-chained scans at every hop, one Merkle-rooted QR per carton or pallet, and portals for manufacturer, warehouse, retailer, buyer and regulator. TypeScript: React + Vite, a Hono API, PostgreSQL (embedded PGlite by default).
 - 🔭 [**Issue Scout**](https://github.com/saihardhikreddy/issue-scout): Finds fresh, unclaimed GitHub issues in projects whose AI-contribution policy fits you. Python CLI. [Live demo](https://saihardhikreddy.github.io/issue-scout/).
 - 👁️ [**Omni-Track**](https://github.com/saihardhikreddy/omni-track): Real-time crowd topography with SVD Rank-1 anomaly detection, YOLOv8/ByteTrack and SAHI sliced inference.
 - ⚛️ [**Lammps-AI**](https://github.com/saihardhikreddy/Lammps-AI): Local LAMMPS research assistant: generates validated scripts for liquids and metals from plain-English requests, runs them in LAMMPS, and parses logs and trajectories (diffusion, Green-Kubo viscosity) in a web UI.
