@@ -53,7 +53,7 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
     <td width="50%" valign="top">
       <h3 align="center">🧠 FD-PINN Beam Inverse</h3>
       <p align="center"><b>Frequency-Domain Physics-Informed Neural Network</b></p>
-      <p>Recovers the hidden bending stiffness <i>EI</i> of an Euler-Bernoulli beam on an elastic foundation under a moving load, from 41 frequency-domain sensor readings. Sine (SIREN-style) activations, heavily weighted boundary penalties and L-BFGS optimisation of the physics loss; the plotting script reports the fit to every sensor reading.</p>
+      <p>Recovers the hidden bending stiffness <i>EI</i> of a simply supported, lightly damped Euler-Bernoulli beam under a moving load, from 41 frequency-domain sensor readings. Sine (SIREN-style) activations, heavily weighted boundary penalties and L-BFGS optimisation of the physics loss; the plotting script reports the fit to every sensor reading.</p>
       <p><b>Stack:</b> DeepXDE, TensorFlow, NumPy, Matplotlib</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/FD-PINN-Beam-Inverse">👉 View Repository</a></p>
     </td>
