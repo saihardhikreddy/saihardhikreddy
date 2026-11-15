@@ -69,7 +69,7 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
     <td width="50%" valign="top">
       <h3 align="center">❤️ SeismoPulse</h3>
       <p align="center"><b>₹410 Cuffless Blood-Pressure Trend Monitor</b></p>
-      <p>Times each heartbeat from the aortic-valve opening (MPU-6050 seismocardiogram) to the fingertip pulse (PPG) on an Arduino Nano, and converts the transit time into a BP trend with physics-based calibration.</p>
+      <p>Times each heartbeat from the aortic-valve opening (MPU-6050 seismocardiogram) to the fingertip pulse (PPG) on an Arduino Nano, and converts the transit time into a BP trend with physics-based calibration. A seeded simulation of the firmware's pipeline, re-run in CI, tracks mean arterial pressure with a 2.9 mmHg mean error after two cuff readings (on synthetic data, not a clinical result).</p>
       <p><b>Stack:</b> Arduino C++, Python, Signal Processing</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/SeismoPulse">👉 View Repository</a></p>
     </td>
