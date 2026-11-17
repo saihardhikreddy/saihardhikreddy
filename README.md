@@ -46,7 +46,7 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
     <td width="50%" valign="top">
       <h3 align="center">🛰️ Predictive Edge AI Routing</h3>
       <p align="center"><b>Learning Routing for Offline BLE Mesh Networks</b></p>
-      <p>A learning, privacy-preserving and self-defending routing layer for BitChat-style Bluetooth meshes. Includes a mesh simulator, DTN baselines, a digital-twin server and an Android app.</p>
+      <p>A learning, privacy-preserving and self-defending routing layer for BitChat-style Bluetooth meshes. Includes a mesh simulator, DTN baselines, a digital-twin server and an Android app. In simulation it uses 2–7x less energy per delivered message than flooding; Spray-and-Wait still delivers more (0.93–0.95 vs 0.89–0.92), and the repo says so.</p>
       <p><b>Stack:</b> Python, Kotlin, BLE, Simulation</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/predictive-edge-ai-routing">👉 View Repository</a></p>
     </td>
