@@ -62,8 +62,8 @@ B.Tech AI & Data Science student at **Amrita Vishwa Vidyapeetham**. I like build
     <td width="50%" valign="top">
       <h3 align="center">☁️ CloudOps OS MCP</h3>
       <p align="center"><b>Autonomous Multi-Agent Terraform Pipeline</b></p>
-      <p>Model Context Protocol server for Infrastructure-as-Code governance: cost optimisation and OPA/Rego policy compliance with LLM reasoning, packaged with Docker and CI.</p>
-      <p><b>Stack:</b> TypeScript, Node.js, MCP, Terraform, OPA/Rego, Docker</p>
+      <p>Model Context Protocol server that reviews Terraform before it ships. It flags and rewrites NAT data-transfer costs, oversized EC2 and gp2 volumes, banned regions and SSH open to the internet, checks your own <code>.rego</code> policies with OPA (or a built-in fallback), and can add an LLM pass. Every finding says which engine made it, and a person approves the diff. Agent status, an event log and Kubernetes readiness/liveness probes are exposed as tools too.</p>
+      <p><b>Stack:</b> TypeScript, Node.js, MCP, Terraform, OPA/Rego, Jest, Docker</p>
       <p align="center"><a href="https://github.com/saihardhikreddy/cloudops-os-mcp">👉 View Repository</a></p>
     </td>
     <td width="50%" valign="top">
